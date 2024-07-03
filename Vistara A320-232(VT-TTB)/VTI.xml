@@ -23,8 +23,8 @@
 		<model-options>
 			<registration type="string">VT-TTB</registration>
 			<three-letter type="string">VTI</three-letter>
-			<two-letter type="string">6W</two-letter>
-			<sharklet type="bool">0</sharklet>
+			<two-letter type="string">UK</two-letter>
+			<sharklet type="bool">1</sharklet>
 			<wifi-aft type="bool">0</wifi-aft>
 			<wifi-fwd type="bool">0</wifi-fwd>
 		</model-options>
