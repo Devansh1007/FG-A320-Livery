@@ -4,7 +4,7 @@
 	<sim>
 		<model>
 			<livery>
-				<name>Myanmar Intl Airways (XY-ALJ)</name>
+				<name>Myanmar Airways Intl (XY-ALJ)</name>
 				<texture-fuselage>MMA-fuselage.png</texture-fuselage>
 				<texture-engine>MMA-engine.png</texture-engine>
 				<texture-placards>Fuselage/res/placards.png</texture-placards>
